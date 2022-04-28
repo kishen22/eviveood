@@ -2,6 +2,8 @@ OOD Evive Assesment ReadMe
 Kishen Patel
 Unfortuantely was not able to create scripts to run test cases in terminal without error, however all test cases pass in any IDE with JUnit working. 
 
+Run Main Program by running the bat file
+
 Used Dependencies:
 Scanner class in Java is used to obtain input of primitive data types, in this case we used it to obtain a String input from the user for the meal and item IDs for their order. 
 Object class is used because in our case since we use inheritance and extend our classes from Menu.java, we indirectly use the Object class.
